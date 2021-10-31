@@ -1,3 +1,3 @@
 # proyectoDemo
 
-Un cambio por cambiar ; andres pedorro :v
+Un cambio por cambiar
